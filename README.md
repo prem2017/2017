@@ -4,14 +4,6 @@ This is an open guide to the noteworthy happenings in natural language processin
 
 Want to add or correct?  You are free to send a pull request.
 
-### Products
-
-Google Translate with NMT
-
-ABBYY  
-https://techcrunch.com/2017/06/22/abbyys-new-version-of-textgrabber-is-a-super-useful-ocr-and-translation-app/
-
-
 ### Research
 
 NMT beats SMT
@@ -43,23 +35,24 @@ https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generatio
 
 ### Libs and APIs
 
-PyTorch
+pytorch/text - PyTorch
 
-Google Natural Language API
+MXNet sockeye - Amazon  
+MXNet Gluon - Amazon
 
-InferSent - Facebook
-ParlAI - Facebook
-starSpace - Facebook
+InferSent - Facebook  
+ParlAI - Facebook  
+starSpace - Facebook  
 
-fastText lang id - Facebook
+fastText lang id - Facebook  
 
-AllenNLP - Allen Institute
+AllenNLP - Allen Institute  
 
-Gluon MXNet - Microsoft + Amazon
+ABBYY Real-Time Recognition SDK  
 
-ABBYY Real-Time Recognition SDK
+new languages and upcoming alpha - spaCy  
 
-seq2seq PyTorch
+new languages and functions in the Natural Language API - Google
 
 
 ### Datasets
@@ -78,20 +71,24 @@ https://github.com/facebookresearch/clevr-dataset-gen
 ACL
 
 EMNLP  
-http://noisy-text.github.io/2017/
 
 EACL
 
 NIST TAC
 
-RAAIS
+PyData  
+
+RAAIS  
+
+NIPS
+
 
 ### Education
 
-https://github.com/oxford-cs-deepnlp-2017/lectures
-
 http://cs224n.stanford.edu / http://cs224d.stanford.edu  
 https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+
+https://github.com/oxford-cs-deepnlp-2017/lectures
 
 http://thestraightdope.mxnet.io/chapter05_recurrent-neural-networks/simple-rnn.html
 
@@ -102,16 +99,23 @@ http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
 https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
 
 
+### Products
+
+Google Translate with NMT [research.googleblog.com](https://research.googleblog.com/2017/08/transformer-novel-neural-network.html) [research.google.com](https://research.google.com/pubs/pub45610.html) [wiki](https://en.wikipedia.org/wiki/Google_Neural_Machine_Translation)
+
+Алиса - Yandex
+
 ### More Reading
 
-http://mitp.nautil.us/article/170/last-words-computational-linguistics-and-deep-learning
-http://nathan.ai
-https://yerevann.github.io/
-http://approximatelycorrect.com/category/natural-language-processing/
-http://approximatelycorrect.com/2017/09/26/a-random-walk-through-emnlp-2017/
-http://newsletter.ruder.io/
-http://ruder.io/highlights-emnlp-2017/index.html
-http://ruder.io/word-embeddings-2017/
-https://explosion.ai/blog/
-https://explosion.ai/blog/quora-deep-text-pair-classification
-https://www.producthunt.com/@bittlingmayer/collections
+https://nlp.stanford.edu/read/  
+http://mitp.nautil.us/article/170/last-words-computational-linguistics-and-deep-learning  
+http://nathan.ai  
+https://yerevann.github.io/  
+http://approximatelycorrect.com/category/natural-language-processing/  
+http://approximatelycorrect.com/2017/09/26/a-random-walk-through-emnlp-2017/  
+http://newsletter.ruder.io/  
+http://ruder.io/highlights-emnlp-2017/index.html  
+http://ruder.io/word-embeddings-2017/  
+https://explosion.ai/blog/  
+https://explosion.ai/blog/quora-deep-text-pair-classification  
+https://www.producthunt.com/@bittlingmayer/collections  
