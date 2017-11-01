@@ -119,3 +119,6 @@ http://ruder.io/word-embeddings-2017/
 https://explosion.ai/blog/  
 https://explosion.ai/blog/quora-deep-text-pair-classification  
 https://www.producthunt.com/@bittlingmayer/collections  
+https://www.reddit.com/r/LanguageTechnology/  
+https://plus.google.com/communities/112547995826249627629
+
