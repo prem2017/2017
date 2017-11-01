@@ -105,7 +105,7 @@ Google Translate with NMT [research.googleblog.com](https://research.googleblog.
 
 Алиса - Yandex
 
-## More Reading
+## Read more
 
 https://nlp.stanford.edu/read/  
 http://mitp.nautil.us/article/170/last-words-computational-linguistics-and-deep-learning  
