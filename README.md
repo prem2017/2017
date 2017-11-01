@@ -6,7 +6,10 @@ Want to add or correct?  You are free to send a pull request.
 
 ### Research
 
-NMT beats SMT
+advances in generalisable DL  
+char-level - not just for lang id and translit  
+unsupervised approaches, e.g. cross-lingual word embeddings  
+NMT beats SMT  
 
 EFF AI Metrics - Written Language, Spoken Language  
 https://www.eff.org/ai/metrics
