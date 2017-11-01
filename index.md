@@ -1,4 +1,4 @@
-## 2017 in review
+## NLP Guide - 2017 in review
 
 This is an open guide to the noteworthy happenings in natural language processing in 2017.
 
